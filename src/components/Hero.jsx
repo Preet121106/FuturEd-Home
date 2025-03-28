@@ -38,7 +38,7 @@ const Hero = () => {
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
           Boost your productivity with FuturEd—the ultimate OpenAI chat app designed to enhance your workflow effortlessly!
           </p>
-          <Button href="https://futur-ed-study-ai.vercel.app/">
+          <Button href="https://futur-ed-study.vercel.app/">
             Learn Now !
           </Button>
         </div>
