@@ -66,13 +66,6 @@ const Header = () => {
 
           <HamburgerMenu />
         </nav>
-
-        <a
-          href="https://futuredaichat.vercel.app/"
-          className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
-        >
-          Explore Futured-AI
-        </a>
         <Button className="hidden lg:flex" href="https://github.com/Preet121106/FuturEd-Home.git">
           Give a Star
         </Button>

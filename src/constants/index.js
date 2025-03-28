@@ -22,7 +22,7 @@ import {
   plusSquare,
   recording01,
   recording03,
-  roadmap1,
+  roadmap1new,
   roadmap2,
   roadmap3,
   roadmap4,
@@ -50,6 +50,11 @@ export const navigation = [
     id: "3",
     title: "Roadmap",
     url: "#roadmap",
+  },
+  {
+    id: "4",
+    title: "FuturEd AI Gpt",
+    url: "https://futuredaichat.vercel.app/",
   },
 ];
 
@@ -81,7 +86,7 @@ export const roadmap = [
     text: "Getting Lazy?...We are currently working on the  Voice Assistant feature to make your work easier on your end.",
     date: "March 2025",
     status: "In Queue",
-    imageUrl: roadmap1,
+    imageUrl: roadmap1new,
     colorful: true,
   },
   {
