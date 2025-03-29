@@ -64,14 +64,14 @@ export const notificationImages = [notification4, notification3, notification2];
 
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
-export const brainwaveServices = [
+export const futuredServices = [
   "ATS Optimised Résumé",
   "YouTube Study Materials",
   "Interview Preparations",
   "Cover Letter Writing",
 ];
 
-export const brainwaveServicesIcons = [
+export const futuredServicesIcons = [
   recording03,
   recording01,
   disc02,

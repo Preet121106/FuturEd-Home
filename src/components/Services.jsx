@@ -1,7 +1,7 @@
 import Section from "./Section";
 import Heading from "./Heading";
 import { pic1, check, pic2, pic3new } from "../assets";
-import { brainwaveServices, brainwaveServicesIcons } from "../constants";
+import { futuredServices, futuredServicesIcons } from "../constants";
 import {
   PhotoChatMessage,
   Gradient,
@@ -38,7 +38,7 @@ const Services = () => {
                 FuturEd unlocks the potential of AI to prepare for Dream Jobs.
               </p>
               <ul className="body-2">
-                {brainwaveServices.map((item, index) => (
+                {futuredServices.map((item, index) => (
                   <li
                     key={index}
                     className="flex items-start py-4 border-t border-n-6"
@@ -83,7 +83,7 @@ const Services = () => {
                 </p>
 
                 <ul className="flex items-center justify-between">
-                  {brainwaveServicesIcons.map((item, index) => (
+                  {futuredServicesIcons.map((item, index) => (
                     <li
                       key={index}
                       className={`rounded-2xl flex items-center justify-center ${

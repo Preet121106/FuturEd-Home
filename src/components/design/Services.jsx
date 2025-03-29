@@ -33,7 +33,7 @@ export const VideoChatMessage = () => {
           src={faviconlogo}
           width={26}
           height={26}
-          alt="Brainwave"
+          alt="futured"
         />
       </div>
       <p className="tagline absolute right-2.5 bottom-1 text-[0.625rem] text-n-3 uppercase">
